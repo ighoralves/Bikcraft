@@ -137,6 +137,14 @@ img {
   letter-spacing: .1em;
 }
 
+/* introdução interna */
+
+.introducao-interna {
+  width: 100%;
+  margin-top: 92px;
+  height: 160px;
+}
+
 /* Produtos */
 
 .produtos {
